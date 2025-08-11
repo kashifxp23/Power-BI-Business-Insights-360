@@ -23,7 +23,7 @@ AtliQ Hardware, despite its rapid growth, faced significant financial losses in 
 6. **Deployment**: Report was published to Power BI Service with scheduled auto-refresh using a personal data gateway.
 
 ## Files and Resources  
-- **Live Power BI Dashboard**: [Click to View](https://app.powerbi.com/view?r=eyJrIjoiMzZmMDJhZWQtMDU3ZC00NmY4LTlmNDMtMDI1YWQ5NTQ5YjgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- **Live Power BI Dashboard**: [Click to View](https://app.powerbi.com/view?r=eyJrIjoiZTBmMzNhNjQtYzhmNS00MWI0LTk3ZDQtMGViZDJmYjNiZmM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=a1bc1f19961021a522a2)
 - **Project Report (PDF)**
   
 ## Tools & Technologies Used  
